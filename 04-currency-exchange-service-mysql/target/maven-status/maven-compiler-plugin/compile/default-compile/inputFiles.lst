@@ -1,0 +1,6 @@
+D:\AWS\spring-micro\04-currency-exchange-service-mysql\src\main\java\com\in28minutes\microservices\currencyexchangeservice\CurrencyExchangeServiceApplicationMySql.java
+D:\AWS\spring-micro\04-currency-exchange-service-mysql\src\main\java\com\in28minutes\microservices\currencyexchangeservice\resource\ExchangeValueRepository.java
+D:\AWS\spring-micro\04-currency-exchange-service-mysql\src\main\java\com\in28minutes\microservices\currencyexchangeservice\resource\ExchangeValue.java
+D:\AWS\spring-micro\04-currency-exchange-service-mysql\src\main\java\com\in28minutes\microservices\currencyexchangeservice\util\containerservice\ContainerMetaDataService.java
+D:\AWS\spring-micro\04-currency-exchange-service-mysql\src\main\java\com\in28minutes\microservices\currencyexchangeservice\resource\CurrencyExchangeController.java
+D:\AWS\spring-micro\04-currency-exchange-service-mysql\src\main\java\com\in28minutes\microservices\currencyexchangeservice\util\logging\EnvironmentConfigurationLogger.java

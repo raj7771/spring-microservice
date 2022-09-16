@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: aws-hello-world-rest-api
+Implementation-Version: 1.0.0-RELEASE
+Built-By: muvva
+Implementation-Vendor-Id: com.in28minutes.rest.webservices
+Build-Jdk: 1.8.0_281
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/01-aws-hello-world-rest-api
+Created-By: Maven Integration for Eclipse
+

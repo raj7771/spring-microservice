@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: aws-currency-exchange-service-h2-xray
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: muvva
+Implementation-Vendor-Id: com.in28minutes.microservices
+Build-Jdk: 1.8.0_281
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/06-aws-currency-exchange-service-h2-xray
+Created-By: Maven Integration for Eclipse
+
